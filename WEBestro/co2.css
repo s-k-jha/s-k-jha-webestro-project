@@ -1,0 +1,17 @@
+body {
+    background-image: url("CO2\ IMAGE.jpg");
+    background-size: cover;
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+  }
+  h1{
+      font-size: xx-large;
+      border-style: solid;
+  }
+  p{
+      font: 200px;
+      font-style:italic;
+      font-size: xx-large;
+      font-family: Arial, Helvetica, sans-serif;
+      
+  }
