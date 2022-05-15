@@ -1,0 +1,21 @@
+body {
+    background-image: url("global\ warming.webp");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    font-size: xx-large;
+    font-variant: normal;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dashed;
+    position: fixed;
+}
+
+h1 {
+    background-color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
