@@ -89,3 +89,5 @@ body {
 footer{
     text-align: center;
 }
+html{
+    border-style: double; }
